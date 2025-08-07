@@ -1,4 +1,4 @@
-*.vscode
+*.vscode/
 *.o
 *.out
 *.exe
@@ -13,4 +13,4 @@
 *.cache
 *clangd
 *index
-.cache/clangd/index/*
+.cache/
